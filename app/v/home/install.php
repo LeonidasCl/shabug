@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF8" />
-  <title>BugTrace 在线安装</title>
+  <title>SHABUG 在线安装</title>
   <link href="static/default.css" rel="stylesheet" type="text/css" media="screen" />
     <style type="text/css">
       body {
@@ -41,7 +41,7 @@
 <body>
 <div class="container">
 <form class="form-signin form-horizontal" method="POST" >
-  <h1>BugTrace 安装程序</h1>
+  <h1>SHABUG 安装程序</h1>
   
   <?
   if($writable){?>

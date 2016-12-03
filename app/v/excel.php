@@ -6,8 +6,8 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-  <Author>eKU.b24.cn</Author>
-  <LastAuthor>eKU.b24.cn</LastAuthor>
+  <Author>shacus</Author>
+  <LastAuthor>shacus</LastAuthor>
   <Created>2012-07-04T06:16:17Z</Created>
   <LastSaved>2012-07-04T06:17:04Z</LastSaved>
   <Company>CHINA</Company>

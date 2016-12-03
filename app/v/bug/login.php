@@ -53,7 +53,7 @@
     <div class="container">
 
       <form class="form-signin"  method="POST"action="?/login/"  >
-        <h2 class="form-signin-heading" >BugTrace</h2>
+        <h2 class="form-signin-heading" >SHABUG-追影缺陷跟踪</h2>
         <input type="text" class="input-block-level" placeholder="Email address" name="email" >
         <input type="password" class="input-block-level" placeholder="Password" name="password" >
         <label class="checkbox">

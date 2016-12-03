@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>EKU | 缺陷跟踪 </title>
-<meta name="keywords" content="免费,在线,仓库管理,软件,云计算"/>
-<meta name="description" content="免费在线仓库管理软件"/>
+<title>SHABUG | 缺陷跟踪 </title>
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
 <meta content="yes" name="apple-mobile-web-app-capable" />
 <meta content="black" name="apple-mobile-web-app-status-bar-style" />
@@ -12,7 +12,7 @@
 <body>
 	<div  class="wrap" style="width:360px;text-align:center;"  >
 	<div class="panel_block" style="padding:40px 0;" >
-  <h1><span class="logo" >EKU</span>缺陷跟踪 </h1>
+  <h1><span class="logo" >SHABUG</span>缺陷跟踪 </h1>
 <form method="POST"action="<?=BASE?>login/" class="padding" >
     <ul class="panel" >
    <li >

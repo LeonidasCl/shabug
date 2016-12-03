@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>BugTrace :: 追踪臭虫</title>
-  <meta name="keywords" content="BugTRace"/>
-  <meta name="description" content="BugTRace Home Page"/>
+  <title>SHABUG :: 杀BUG</title>
+  <meta name="keywords" content="SHABUG"/>
+  <meta name="description" content="SHABUG Home Page"/>
   <link href="static/default.css" rel="stylesheet" type="text/css" media="screen" />
   <script type="text/javascript" src="static/js/jquery.min.js"></script>
   <script type="text/javascript" src="static/js/bootstrap.min.js"></script>
@@ -17,7 +17,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="/">BugTrace</a>
+          <a class="brand" href="/">SHABUG</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <?foreach($menu as $k=>$v){?>

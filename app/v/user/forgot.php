@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>一库仓储</title>
-<meta name="keywords" content="Tech20 Home Page"/>
-<meta name="description" content="Tech20 Home Page"/>
+<title>SHABUG</title>
+<meta name="keywords" content="T"/>
+<meta name="description" content="T"/>
 <link href="<?=BASE?>static/default.css" rel="stylesheet" type="text/css" media="screen" />
   <script charset="utf-8" src="<?=BASE?>static/jquery-1.7.1.min.js"></script>
 </head>

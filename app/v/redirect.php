@@ -13,7 +13,7 @@
 <div class="win" >
   <h1><?=$msg?></h1>
   <div class="msg" ><?=$ext_msg?></div>
-  <div class="msg1" >页面跳转至: <a href="<?=$url?>" ><?=$url?></a>
+  <div class="msg1" >页面将跳转至: <a href="<?=$url?>" ><?=$url?></a>
    <br />你可以点击 <a href="<?=$url?>" >直接前往</a>
   </div>
 </div>
