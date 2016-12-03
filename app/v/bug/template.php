@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>SHABUG :: 杀BUG</title>
+  <title>SHABUG &middot; 杀BUG</title>
   <meta name="keywords" content="SHABUG"/>
   <meta name="description" content="SHABUG Home Page"/>
   <link href="static/default.css" rel="stylesheet" type="text/css" media="screen" />
@@ -37,7 +37,7 @@
           <?=$al_content?>
           </div>
           <div class="content" > 
-    <div class="cpr" > <a href="http://eku.b24.cn/page/feedback/" target=_blank >意见反馈</a></div>
+    <div class="cpr" > <a href="http://www.shacus.cn" target=_blank >追影 x 2016</a></div>
   </div> 
         </div>
       </div>

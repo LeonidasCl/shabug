@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Sign in &middot; Twitter Bootstrap</title>
+    <title>登录 &middot; SHABUG</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -53,7 +53,7 @@
     <div class="container">
 
       <form class="form-signin"  method="POST"action="?/login/"  >
-        <h2 class="form-signin-heading" >SHABUG-追影缺陷跟踪</h2>
+        <h2 class="form-signin-heading" >SHABUG-杀BUG<br/ ><h4>追影缺陷跟踪系统</h4></h2>
         <input type="text" class="input-block-level" placeholder="Email address" name="email" >
         <input type="password" class="input-block-level" placeholder="Password" name="password" >
         <label class="checkbox">
